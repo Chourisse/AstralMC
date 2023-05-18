@@ -109,6 +109,7 @@ header {
 .logo {
     display: flex;
     align-items: center;
+    margin-left: -800px;
   }
   
   .logo-img {
