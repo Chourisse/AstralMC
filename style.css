@@ -18,7 +18,7 @@ header {
 
 .navbar {
     position: absolute;
-    padding: 50px;
+    padding: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -115,5 +115,5 @@ header {
   .logo-img {
     height: 3.5em;
     width: 3.5em;
-    border-radius: 5px;
+    border-radius: 8px;
   }
